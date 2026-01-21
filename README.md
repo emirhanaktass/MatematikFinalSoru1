@@ -1,4 +1,4 @@
-# MatematikFinalSoru1 Açıklama**
+# MatematikFinalSoru1 Açıklama
 İstanbul Kent Üniversitesi Matematik ödevi için C++ programlama dili kullanılarak geliştirilmiş, ikinci dereceli fonksiyonların köklerini hesaplayan bir uygulamadır. Bu proje ,ax^2+bx+c =0 formundaki ikinci dereceden denklemin köklerini hesaplar.
   
 **Öğrenci Bilgileri:**
