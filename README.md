@@ -1,6 +1,6 @@
-# MatematikFinalSoru1
-İstanbul Kent Üniversitesi Matematik için verilen C++ programlama dili kullanılarak geliştirilmiş, ikinci dereceli yaprakların köklerini hesaplayan bir uygulamadır.
-
+# MatematikFinalSoru1 Açıklama**
+İstanbul Kent Üniversitesi Matematik ödevi için C++ programlama dili kullanılarak geliştirilmiş, ikinci dereceli fonksiyonların köklerini hesaplayan bir uygulamadır. Bu proje ,ax^2+bx+c =0 formudaki ikinci dereceden denklemin köklerini hesaplar.
+  
 **Öğrenci Bilgileri:**
 
 **•AD SOYAD:** Emirhan Aktaş
@@ -11,15 +11,15 @@
 
 **Programın Çalışma Mantığı :**
 
-Güvenli Veri Girişi: Kullanıcıdan a, b ve c katsayıları çalıştırılırken, girilen değerlerin gerçekten bir sayı olup olmadığı kontrol edilir.
++ Güvenli Veri Girişi: Kullanıcıdan a, b ve c katsayıları istenirken, girilen değerin gerçekten bir sayı olup olmadığı kontrol edilir.
 
-Diskriminant Hesaplaması: Girilen katsayılara göre Δ = b^2 - 4ac formülü ile diskriminant hesaplanır.
++ Diskriminant Hesaplaması: Girilen katsayılara göre Δ = b^2 - 4ac formülü ile diskriminant hesaplanır.
 
-Kök Durumunun Analizi:
++ Kök Durumunun Analizi:
 
-Δ > 0: İki farklı reel kök hesaplanır ve yazdırılır. Δ = 0: Tek bir (çift katlı) reel kök hesaplanır. Δ < 0: Makara kökü mevcut durumdadır.
+Δ > 0: İki farklı reel kök hesaplanır ve yazdırılır. Δ = 0: Tek bir (çift katlı) reel kök hesaplanır. Δ < 0: Denklemin reel kökü yoktur.
 
-**Programdan Ekran Görüntüleri**
+**Programdan Görüntüler**
 
 •Örn: 8x^2 + 4x + 2
 
